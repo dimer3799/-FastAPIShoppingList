@@ -1,0 +1,14 @@
+asyncpg
+psycopg2-binary
+databases[postgresql]
+SQLAlchemy
+SQLAlchemy-Utils
+alembic
+fastapi
+uvicorn
+pydantic
+email-validator
+python-multipart
+pytest
+pytest-freezegun
+requests
