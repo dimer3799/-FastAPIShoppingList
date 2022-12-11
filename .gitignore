@@ -8,3 +8,5 @@ venv/
 # все что касается VSCode
 .vscode/
 
+# Файл настроек
+settings.yaml
